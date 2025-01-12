@@ -4,3 +4,12 @@ Natija: 4354.0 USD = 456345.53 RUB
 2025-01-10  02:04:33 da yaratildi: 
 Natija: 500.0 USD = 52405.32 RUB
 
+2025-01-11  04:20:59 da yaratildi: 
+Natija: 44.0 NOK = 393.36 RUB
+
+2025-01-11  04:22:10 da yaratildi: 
+Natija: 10000.0 USD = 1020137.17 RUB
+
+2025-01-12  11:57:08 da yaratildi: 
+Natija: 788.0 USD = 80386.81 RUB
+
